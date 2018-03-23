@@ -21,4 +21,4 @@ The inspections.csv file contains information about inspectors’ visits to busi
 ## 3. Exploration
 
 ## 4. Visualization
-![alt text]()
+![made with Tableau](https://github.com/3innielee/food-safety-sf/blob/master/resource/viz1.png)
