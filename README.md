@@ -1,4 +1,6 @@
 # food-safety-sf
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/3innielee/food-safety-sf/master?filepath=code.ipynb)
+
 Food Safety from the Perspective of Restaurant Inspections in San Francisco.
 
 ## 1. Initial Hypotheses
